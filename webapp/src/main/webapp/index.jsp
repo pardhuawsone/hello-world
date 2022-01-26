@@ -15,20 +15,19 @@ div {background-color:#D4D6D9; margin:6px; padding:4px;}
 </head>
 <body>
 <div>
-<header><h1>JNTU-K</h1></header>
+<header><h1>Newton's Institure of Engineering</h1></header>
 <h2>At a Glance</h2>
 <p>NIE is commited to help poor and intelligent students
 And to bring light into their families. </p>
 <h2>Macherla</h2>
 <p> College is located near N.Sagar which is very cool place </p>
-<h2>School Mascot</h2>
+<h2>College Mascot</h2>
 <h2>Links</h2>
 <ul>
-<li><a href="http://mycollege ">description</a></li> (this link should take you to the school home page)
-<li><a href=" http://admissions ">description</a></li> (this link should take you to the school admissions page)
-<li><a href=" http://campusMaps ">description</a></li> (this link should take you to a campus map of the school)
-<li><a href=" http://library ">description</a></li> (this link should take you to the school bookstore, a
-specific athletic club or another part of campus life)
+<li><a href="http://mycollege ">Departments</a></li>
+<li><a href=" http://admissions ">Admissions</a></li>
+<li><a href=" http://campusMaps ">Campus</a></li>
+<li><a href=" http://library ">Library</a></li>
 </ul>
 <br>
 <footer>Saradhi Makkena, 27-01-2022 FinalYear</footer>
