@@ -2,7 +2,7 @@
 <html><head>
 <title>Newton's Institure of Engineering</title>
 <style type="text/css">
-body{background-color:#e8e8e8; color:#000000;}
+body{background-color:#DFEE2F; color:#000000;}
 header {background-color:#E80C30;}
 h1 {color: #ffffff; font-family:Verdana; font-size:24px; text-align:center;}
 h2 {font-family:Arial; font-size:18px; clear:both;}
