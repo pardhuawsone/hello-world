@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-<title>Newton's Institure of Engineering</title>
+<title>Newton's Inst of Engineering</title>
 <style type="text/css">
 body{background-color:#DFEE2F; color:#000000;}
 header {background-color:#E80C30;}
@@ -10,12 +10,12 @@ p {font-family:Arial; line-height:200%;}
 img {border:2px solid; margin:10px; padding:4px; max-width:100%;}
 ul {float:left;}
 footer {background-color:#E80C30; color:white; clear:both; text-align:center;}
-div {background-color:#D4D6D9; margin:6px; padding:4px;}
+div {background-color:#DFEE2F; margin:6px; padding:4px;}
 </style>
 </head>
 <body>
 <div>
-<header><h1>Newton's Institure of Engineering</h1></header>
+<header><h1>Newton's Inst of Engineering</h1></header>
 <h2>At a Glance</h2>
 <p>NIE is commited to help poor and intelligent students
 And to bring light into their families. </p>
