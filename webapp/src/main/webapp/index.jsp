@@ -15,7 +15,7 @@ div {background-color:#DFEE2F; margin:6px; padding:4px;}
 </head>
 <body>
 <div>
-<header><h1>Newton's Inst of Engineering and Tech</h1></header>
+<header><h1>NGI College</h1></header>
 <h2>At a Glance</h2>
 <p>NIE is commited to help poor and intelligent students
 And to bring light into their families. </p>
@@ -30,7 +30,7 @@ And to bring light into their families. </p>
 <li><a href=" http://library ">Library</a></li>
 </ul>
 <br>
-<footer>Saradhi Makkena, B.Tech</footer>
+<footer>Poorna, B.Tech</footer>
 </div>
 </body>
 </html>
