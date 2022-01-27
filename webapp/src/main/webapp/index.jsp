@@ -30,7 +30,7 @@ And to bring light into their families. </p>
 <li><a href=" http://library ">Library</a></li>
 </ul>
 <br>
-<footer>Saradhi Makkena, 27-01-2022 FinalYear</footer>
+<footer>Saradhi Makkena, B.Tech</footer>
 </div>
 </body>
 </html>
